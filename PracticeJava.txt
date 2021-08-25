@@ -1,0 +1,8 @@
+Variable is a name of memory location. There are three types of variables in java: local, instance and static.
+
+There are three types of variables in Java:
+
+local variable
+instance variable
+static variable
+
